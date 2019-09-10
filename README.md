@@ -1,1 +1,1 @@
-# K-Means-Clustering & Hierarchical clustering
+# K-Means-Clustering & Hierarchical clustering using mall data.
